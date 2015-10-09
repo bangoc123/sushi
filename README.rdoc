@@ -1,28 +1,15 @@
-== README
+== Sushi App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Purpose: Find English Mentors
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+- Search mentors based on Skills, Years of Experiences, Online Status
 
-* System dependencies
+- Chat with your mentors
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Update new knowledge shares of your mentors 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
